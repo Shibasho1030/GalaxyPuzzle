@@ -5,7 +5,7 @@ YouTube の参考動画をもとにテトリスの基本構造を学習し、そ
 
 ## URL
 
-開発環境での起動URL：
+ゲーム起動URL：
 
 https://galaxypuzzle.netlify.app/
 
