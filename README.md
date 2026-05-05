@@ -7,9 +7,7 @@ YouTube の参考動画をもとにテトリスの基本構造を学習し、そ
 
 開発環境での起動URL：
 
-http://localhost:62225/
-
-※Netlify などにデプロイした公開URLに差し替える予定です。
+https://galaxypuzzle.netlify.app/
 
 ※ 画面サイズが合わない場合は、ブラウザの表示サイズや拡大率を変更して遊んでください。
 
